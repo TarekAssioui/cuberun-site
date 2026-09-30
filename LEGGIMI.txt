@@ -1,0 +1,9 @@
+Questa cartella è il sito di CubeRun (pagina di presentazione + informativa sulla privacy).
+
+1. Apri index.html e privacy.html e sostituisci [IL-TUO-NOME] e [LA-TUA-EMAIL] con i tuoi dati.
+2. Crea su GitHub un repository PUBBLICO (per esempio "cuberun-site") e caricaci il CONTENUTO di questa cartella.
+3. Settings > Pages > Deploy from a branch > main / (root) > Save.
+4. Indirizzo del sito: https://IL-TUO-NOME-GITHUB.github.io/cuberun-site/
+   Informativa per Play Console: .../privacy.html
+
+Non mettere qui dentro nient'altro: il repository è pubblico.
